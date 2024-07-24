@@ -1,4 +1,4 @@
-package training.DataFlair;
+package training.Data;
 
 import java.awt.EventQueue;
 import java.sql.Connection;
